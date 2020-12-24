@@ -1,2 +1,2 @@
-testtesttesttesttesttest
-devdevdev
+config:
+  myinfo: 123321_dev
